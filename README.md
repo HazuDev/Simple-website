@@ -1,3 +1,3 @@
 # Simple website
 
-This "website" was just a project which I did to introduce myself a little to web development.
+This "website" was just a project I did to introduce myself a bit to web development.
